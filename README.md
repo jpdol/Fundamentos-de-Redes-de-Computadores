@@ -2,7 +2,7 @@
 O curso tem como objetivo apresentar conceitos iniciais de Redes de Computadores através de uma abordagem teórica sempre seguida de demonstrações práticas. 
 Dessa forma, após a conclusão do curso o aluno será capaz de definir arquiteturas de aplicações de sistemas em rede e os protocolos mais adequados para suas aplicações independente da sua natureza (sistemas web, mobile, embarcados, etc).
 
-Os slides de apresentação do conteúdo bem como os códigos desenvolvidos durante as aulas estão disponibilizados neste repositório. A seguir, a lista dos links referentes às gravações feitas das aulas ministradas.
+Os slides de apresentação do conteúdo bem como os códigos desenvolvidos durante as aulas estão disponibilizados neste repositório. A seguir, a lista dos links referentes às gravações feitas das aulas ministradas. Para acessá-las, clique no link e solicite permissão.
 
 ### Vídeo-Aulas:
 * [Aula 1 (Parte 1)](https://drive.google.com/file/d/1w1eeQrmR8S9J6YJXT0hLVo0z7EaAXALm/view?usp=sharing)
