@@ -11,3 +11,4 @@ Os slides de apresentação do conteúdo bem como os códigos desenvolvidos dura
 * [Aula 2 (Parte 2)](https://drive.google.com/file/d/1nAW0bbGbFao9hKYZOv_gVN_LzlQJ9jeV/view?usp=sharing)
 * [Aula 3 (Parte 1)](https://drive.google.com/file/d/1OdbOMUUSwY78ETzjjSdchPrYBYuoKFxZ/view?usp=sharing)
 * [Aula 3 (Parte 2)](https://drive.google.com/file/d/1OL2UYB8KtoDYxb5_22v1Up05LeYJtEYZ/view?usp=sharing)
+* [Aula 4 (Parte 1)](https://drive.google.com/file/d/1xJtAci2rIXU6bL6TGo51zcQZn1LKJ-8A/view?usp=sharing)
